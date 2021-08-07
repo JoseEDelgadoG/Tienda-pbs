@@ -25,7 +25,6 @@ body {
 }
 .navbar {
   justify-content: flex-start !important;
-  background: blue;
 }
 .btn-black {
   background: transparent;
